@@ -13,7 +13,7 @@ const Navbar = () => {
     { name: 'blog', label: 'Blog', path: '/blog' },
     { name: 'contact', label: 'Contact', path: '/contact' },
   ];
-
+   // gg 
   return (
     <nav className={styles.navbar}>
       <ul className={styles.navbarList}>
